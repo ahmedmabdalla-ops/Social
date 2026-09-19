@@ -1,9 +1,14 @@
-# Social
+# Pulse Analytics Social Operations
 
-A new project by `ahmedmabdalla-ops`.
+Shared operating memory for Pulse Analytics social media.
 
-This repository is ready for development. The application scope, technology stack, and initial feature set will be defined in the next iteration.
+- Claude = daily social operator.
+- Metricool = performance source of truth.
+- Independent audit layer = ChatGPT; reviews Metricool plus this repo and writes actionable recommendations here.
+- Founder = decision owner.
 
-## Status
+Daily loop: Audit -> Decide -> Create -> Quality-check -> Publish -> Measure -> Log -> Learn -> Repeat.
 
-The project is currently being initialized.
+Claude must read the latest audit before each day's content decision. The audit layer does not publish, schedule, delete, or otherwise interfere with Claude's social operation.
+
+Core files: CLAUDE.md, strategy.md, daily-operations.md, audit-and-recommendations.md, plus the existing content/performance logs.

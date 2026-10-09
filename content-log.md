@@ -11,3 +11,8 @@ Newest first. Times are Africa/Cairo. Metricool brand id: 6764401 (Facebook only
 - Illustrative data always labelled; no fabricated results; no personalised advice.
 - Disclaimer on every post: المحتوى لا يمثل توصية بالبيع أو الشراء.
 - Canonical Pulse logo/fonts/colors only (see Pulse brand docs in the product repo).
+
+| 3 | 2026-10-01 12:30 | Facebook | Feature series #1: Daily Progress ("اليوم بيقولك إيه؟") with portfolio-journey bar chart | Feature explainers with a visible chart beat text-only feature posts on shares | Scheduled | features/01-daily-progress/ |
+| 4 | 2026-10-02 12:30 | Facebook | Feature series #2: Position Anatomy ("سهم واحد في محفظتك… مش صفقة واحدة") tranche composition | Showing how one position is built from several buys makes the feature concrete and shareable | Scheduled | features/02-position-anatomy/ |
+| 5 | 2026-10-03 12:30 | Facebook | Contradiction pillar: "كسبت فلوس؟ ولا كانت الصفقة كويسة؟" (result vs decision quality) | Result-vs-decision framing drives comments from traders who disagree with their own outcomes | Scheduled | posts/2026-10-03/ |
+| 6 | 2026-10-04 12:30 | Facebook | Question pillar: "بتعرف إنك غلطت من الـ P&L، ولا من قرارك؟" (3 numbered answers) | Numbered self-assessment questions produce more meaningful comments than open questions | Scheduled | posts/2026-10-04/ |

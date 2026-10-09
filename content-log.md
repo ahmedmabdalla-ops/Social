@@ -16,3 +16,11 @@ Newest first. Times are Africa/Cairo. Metricool brand id: 6764401 (Facebook only
 | 4 | 2026-10-02 12:30 | Facebook | Feature series #2: Position Anatomy ("سهم واحد في محفظتك… مش صفقة واحدة") tranche composition | Showing how one position is built from several buys makes the feature concrete and shareable | Scheduled | features/02-position-anatomy/ |
 | 5 | 2026-10-03 12:30 | Facebook | Contradiction pillar: "كسبت فلوس؟ ولا كانت الصفقة كويسة؟" (result vs decision quality) | Result-vs-decision framing drives comments from traders who disagree with their own outcomes | Scheduled | posts/2026-10-03/ |
 | 6 | 2026-10-04 12:30 | Facebook | Question pillar: "بتعرف إنك غلطت من الـ P&L، ولا من قرارك؟" (3 numbered answers) | Numbered self-assessment questions produce more meaningful comments than open questions | Scheduled | posts/2026-10-04/ |
+
+## Correction 2026-10-09
+- Previous log lines for Oct 2–4 were wrong: those dates had passed. Oct 1 feature post (#3) is confirmed PUBLISHED on Facebook (publicUrl facebook.com/122093702835462364/posts/122116435437462364).
+- Real queue, scheduled 2026-10-09 17:49 Cairo time:
+  - #4 Feature #2 Position Anatomy — Fri Oct 9 19:00 (PENDING)
+  - #5 Contradiction pillar — Sat Oct 10 12:30 (PENDING)
+  - #6 Question pillar — Sun Oct 11 12:30 (PENDING)
+- Gap: Oct 2–8 had no posts. Cause: queued posts were planned against the wrong dates and never created in Metricool.
